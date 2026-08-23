@@ -1,3 +1,4 @@
+burayı sil
 require("dotenv").config();
 
 const {
